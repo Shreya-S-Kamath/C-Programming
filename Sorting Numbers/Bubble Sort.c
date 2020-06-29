@@ -3,7 +3,7 @@
 #include<stdio.h> 
 int main() 
 { 
-    int i,j,n,temp,a[100],low,high,key;
+    int i,j,n,temp,a[100];
     printf("Enter the value of n:");
     scanf("%d",&n);
     printf("Enter the array elements:\n");
