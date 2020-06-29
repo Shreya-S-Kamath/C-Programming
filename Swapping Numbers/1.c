@@ -1,3 +1,5 @@
+//Logic 1: Swapping two numbers using temp
+
 #include<stdio.h> 
 void main() 
 { 
@@ -10,4 +12,13 @@ void main()
     printf("After swapping:%d\n%d",a,b); 
     getch(); 
 } 
- 
+
+/*
+Output:
+Enter two numbers to be swapped: 
+10 
+20 
+After swapping: 
+20 
+10 
+*/
