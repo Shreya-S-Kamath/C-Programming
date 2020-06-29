@@ -1,4 +1,9 @@
 // Bubble Sort Optimized Code
+/*
+-> Worst Case Time Complexity: O(n*n)
+-> Average Case Time Complexity: O(n*n)
+-> Best Case Time Complexity: O(n)
+*/
 
 #include<stdio.h> 
 int main() 
