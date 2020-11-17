@@ -1,4 +1,5 @@
 // Armstrong number using while loop
+// For 3-digit numbers
 
 #include <stdio.h>
 int main() 
